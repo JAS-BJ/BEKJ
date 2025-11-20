@@ -197,21 +197,92 @@ Die Organe der Körperschaft sind:
 
 ## 3. Abschnitt: Funktionen der Plattformen
 
-*Wird zu einem späteren Zeitpunkt in Kraft gesetzt.*
+**Art. 18** Adressverzeichnis
 
-**Art. 18-24** Adressverzeichnis
+<sup>1</sup> Jede Plattform enthält ein Verzeichnis mit den Adressen aller Behörden und Personen, die über diese Plattform kommunizieren.
+
+<sup>2</sup> Benutzerinnen und Benutzer, die freiwillig über eine Plattform kommunizieren, können in deren Verzeichnis eintragen, in welchen Verfahren sie elektronisch kommunizieren wollen.
+
+<sup>3</sup> Über jede Plattform können die Verzeichnisse aller Plattformen abgefragt werden.
+
+<sup>4</sup> Die verfahrensleitenden Behörden haben Zugriff auf sämtliche Einträge.
+
+<sup>5</sup> Die übrigen Benutzerinnen und Benutzer haben Zugriff auf die im Adressverzeichnis eingetragenen Adressen von Behörden.
+
+**Art. 19** Benutzeroberfläche und Schnittstellen
+
+<sup>1</sup> Jede Plattform hat eine Benutzeroberfläche, die über gängige Technologien erreicht und benutzt werden kann.
+
+<sup>2</sup> Die zentrale Plattform verfügt über Schnittstellen für die Anbindung anderer Anwendungen.
+
+<sup>3</sup> Der Bundesrat regelt die Anforderungen an die Schnittstellen.
+
+**Art. 20** Authentifizierung der Benutzerinnen und Benutzer
+
+<sup>1</sup> Die Benutzerinnen und Benutzer einer Plattform müssen sich dieser gegenüber authentifizieren.
+
+<sup>2</sup> Der Bundesrat bestimmt, welche elektronischen Identitätsnachweise dazu eingesetzt werden können.
+
+**Art. 21** Ausnahmen zur Authentifizierung gegenüber der Plattform
+
+<sup>1</sup> Benutzerinnen und Benutzer, die eine Plattform über die Anwendung einer Behörde nutzen, müssen sich gegenüber der Plattform nicht authentifizieren, wenn die Trägerschaft der Plattform dies bewilligt hat.
+
+<sup>2</sup> Die Trägerschaft erteilt die Bewilligung, wenn die Authentifizierung über die Anwendung der Behörde gewährleistet ist.
+
+**Art. 22** Entgegennahme und Abruf von Dokumenten
+
+<sup>1</sup> Die Plattformen nehmen die Dokumente der Benutzerinnen und Benutzer entgegen. Nötigenfalls übermitteln sie die Dokumente an die Plattform, die die Adressatin oder der Adressat benutzt. Die Plattform der Adressatin oder des Adressaten ermöglicht dieser oder diesem den Zugriff auf die Dokumente.
+
+<sup>2</sup> Die Behörden versehen die Dokumente vor der Übermittlung an eine Plattform mit einem geregelten elektronischen Siegel und einem qualifizierten elektronischen Zeitstempel nach dem Bundesgesetz vom 18. März 2016 über die elektronische Signatur (ZertES). Fehlt das Siegel oder der Zeitstempel, so nimmt die Plattform die Dokumente nicht entgegen.
+
+<sup>3</sup> Bei den Dokumenten der übrigen Benutzerinnen und Benutzer bringen die Plattformen selbst ein Siegel und einen Zeitstempel an.
+
+<sup>4</sup> Die Plattformen stellen folgende Quittungen aus und versehen sie mit einem Siegel und einem Zeitstempel:
+- a. eine Eingangsquittung: sobald die Absenderin oder der Absender ein Dokument übermittelt;
+- b. eine Abrufquittung: für jede Adressatin und jeden Adressaten, sobald sie oder er das Dokument erstmals abruft;
+- c. eine Nichtabholquittung: wenn eine Adressatin oder ein Adressat das Dokument bis zum Ende des siebten Tags nach der Übermittlung nicht abgerufen hat.
+
+<sup>5</sup> Die Dokumente und Quittungen werden frühestens 90 Tage nach der Übermittlung gelöscht. Bis zur Löschung können die Absenderin oder der Absender sowie die betreffende Adressatin oder der betreffende Adressat sie jederzeit abrufen.
+
+<sup>6</sup> Der Bundesrat regelt die Form und den Inhalt der Quittungen sowie die maximale Aufbewahrungsfrist der Dokumente und Quittungen.
+
+**Art. 23** Zusätzliche Benachrichtigungen
+
+Die Benutzerinnen und Benutzer einer Plattform können auf dieser zusätzlich zur Adresse weitere Adressierungselemente angeben. Die Plattform informiert auf diesem Weg über das Vorhandensein neuer Dokumente und Quittungen.
+
+**Art. 24** Weitergabe und Verwaltung von Berechtigungen
+
+<sup>1</sup> Die Plattform muss den Benutzerinnen und Benutzern ermöglichen, andere Benutzerinnen und Benutzer zum Abruf und zur Übermittlung von Dokumenten zu berechtigen.
+
+<sup>2</sup> Sie muss es den Benutzerinnen und Benutzern ermöglichen, Benutzergruppen zu bilden.
+
+<sup>3</sup> Die Benutzerinnen und Benutzer, die eine Berechtigung erhalten, müssen diese jederzeit ablehnen können.
+
+<sup>4</sup> Die Weitergabe einer Berechtigung ist aus den angebrachten geregelten elektronischen Siegeln nicht ersichtlich.
 
 ## 4. Abschnitt: Betriebsbewilligung
 
-*Wird zu einem späteren Zeitpunkt in Kraft gesetzt.*
-
 **Art. 25**
+
+<sup>1</sup> Für den Betrieb einer Plattform ist die Bewilligung des EJPD erforderlich.
+
+<sup>2</sup> Die Bewilligung wird erteilt, wenn die Plattform die Anforderungen nach dem 3. Abschnitt und die Anforderungen an die Interoperabilität mit allen anderen Plattformen erfüllt und der Quellcode der Plattform in geeigneter Form öffentlich zugänglich gemacht wurde.
+
+<sup>3</sup> Der Bundesrat regelt die Anforderungen an die Interoperabilität sowie das Bewilligungsverfahren und die Kostentragung.
 
 ## 5. Abschnitt: Nichterreichbarkeit einer Plattform
 
-*Wird zu einem späteren Zeitpunkt in Kraft gesetzt.*
-
 **Art. 26**
+
+<sup>1</sup> Ist eine Plattform am Tag, an dem eine Frist abläuft, nicht erreichbar, so verlängert sich die Frist bis zu dem Tag, der auf den Tag folgt, an dem die Plattform wieder erreichbar ist.
+
+<sup>2</sup> Fällt der Folgetag auf einen Samstag, einen Sonntag oder einen vom Bundesrecht oder vom kantonalen Recht anerkannten Feiertag, so endet die Frist am nächstfolgenden Werktag. Massgebend ist das Recht des Kantons, in dem die verfahrensleitende Behörde ihren Sitz hat.
+
+<sup>3</sup> Die Nichterreichbarkeit der Plattform ist glaubhaft zu machen.
+
+<sup>4</sup> Während die Plattform nicht erreichbar ist, sind die betroffenen Benutzerinnen und Benutzer oder Behörden nicht verpflichtet, die Plattform zu nutzen.
+
+<sup>5</sup> Die Nichterreichbarkeit einer Plattform muss nicht glaubhaft gemacht werden und die Frist gilt in jedem Fall als gewahrt, sofern die betroffenen Benutzerinnen und Benutzer am letzten Tag, an dem eine Frist abläuft, die Eingabe in Papierform oder den Beweis der Existenz der einzureichenden Dokumente bei der zuständigen Behörde einreichen oder zu deren Handen der Schweizerischen Post oder einer schweizerischen diplomatischen oder konsularischen Vertretung übergeben. Die Eingabe ist innert einer von der verfahrensleitenden Behörde angesetzten angemessenen Frist auf elektronischem Weg nachzureichen.
 
 ## 6. Abschnitt: Datenschutz und Datensicherheit
 
@@ -219,7 +290,7 @@ Die Organe der Körperschaft sind:
 
 <sup>1</sup> Die Daten auf den Plattformen sind nach schweizerischem Recht in der Schweiz zu halten und zu bearbeiten. Beigezogene Dritte, die Zugang zu den Daten erhalten, müssen schweizerischem Recht unterstehen und ihren Sitz oder Wohnsitz in der Schweiz haben.
 
-<sup>2</sup> ... *Wird zu einem späteren Zeitpunkt in Kraft gesetzt.*
+<sup>2</sup> Die Körperschaft darf Personendaten, einschliesslich besonders schützenswerter Personendaten, bearbeiten, soweit dies für die Funktionen der Plattformen nach dem 3. Abschnitt erforderlich ist.
 
 <sup>3</sup> Die Bestimmungen des anwendbaren Verfahrensrechts zum Datenschutz bleiben vorbehalten.
 
@@ -233,27 +304,54 @@ Die Organe der Körperschaft sind:
 
 **Art. 28** Datensicherheit
 
-*Wird zu einem späteren Zeitpunkt in Kraft gesetzt.*
+<sup>1</sup> Die Körperschaft und die Gemeinwesen, die eine eigene Plattform nach Artikel 4 betreiben, legen in einem Bearbeitungsreglement insbesondere die organisatorischen und technischen Massnahmen gegen unbefugtes Bearbeiten der Daten fest und regeln die automatische Protokollierung der Datenbearbeitung und der Dateneinsicht.
+<sup>2</sup> Sie bezeichnen eine Aufsicht. Diese überprüft die Datensicherheit der Plattformen regelmässig.
+
+<sup>3</sup> Der Bundesrat regelt die Anforderungen an die Datensicherheit. Er orientiert sich dabei an allgemein anerkannten Standards.
 
 ## 7. Abschnitt: Digitalisierung und Rücksendung von physischen Dokumenten
 
-*Wird zu einem späteren Zeitpunkt in Kraft gesetzt*
+**Art. 29** Digitalisierung von physischen Dokumenten
 
-**Art. 29 und 30**
+<sup>1</sup> Die Behörden lesen physisch eingereichte Dokumente elektronisch ein. Ausgenommen sind Dokumente, die sich aus technischen Gründen nicht dafür eignen.
+
+<sup>2</sup> Sie versehen die elektronischen Dokumente mit einem qualifizierten elektronischen Zeitstempel nach dem ZertES.
+
+<sup>3</sup> Die elektronischen Dokumente gelten im Verfahren als massgebliche Version.
+
+<sup>4</sup> Der Bundesrat regelt das Digitalisierungsverfahren.
+
+**Art. 30** Rücksendung von physischen Dokumenten
+
+<sup>1</sup> Die Behörden senden die physisch eingereichten Dokumente nach der Digitalisierung an die Absenderin oder den Absender zurück.
+
+<sup>2</sup> Werden die Dokumente im Verfahren benötigt, so behalten sie diese so lange wie nötig zurück.
 
 ## 8. Abschnitt: Haftung
 
-*Wird zu einem späteren Zeitpunkt in Kraft gesetzt*
-
 **Art. 31**
+
+<sup>1</sup> Für den Schaden, der einer Person durch den Betrieb der zentralen Plattform widerrechtlich entsteht, haftet die Körperschaft nach dem Verantwortlichkeitsgesetz vom 14. März 1958 (VG) mit ihrem Vermögen.
+
+<sup>2</sup> Die Ausfallhaftung des Bundes (Art. 19 Abs. 1 Bst. a VG) gilt nicht; an ihre Stelle tritt die Kostenaufteilung zwischen Bund und Kantonen nach Artikel 33.
 
 ## 9. Abschnitt: Finanzierung der zentralen Plattform
 
-**Art. 32-34** Gebühren
+**Art. 32** Gebühren
+
+<sup>1</sup> Die Körperschaft erhebt jährlich von den Behörden, welche die zentrale Plattform nutzen, Gebühren zur Deckung der Betriebs- und Weiterentwicklungskosten. Von den übrigen Benutzerinnen und Benutzern erhebt sie keine Gebühren.
+
+<sup>2</sup> Der Bundesrat legt die Höhe der Gebühren fest. Er kann Pauschalen vorsehen.
+
+**Art. 33** Aufteilung der Aufbaukosten zwischen Bund und Kantonen
+
+Der Bund trägt 25 Prozent der Kosten für den Aufbau der zentralen Plattform, die Kantone 75 Prozent.
+
+**Art. 34** Übertragung der Plattform an die Körperschaft
+
+Der Bund und die Kantone übertragen der Körperschaft die zentrale Plattform; die Übertragung erfolgt kostenlos.
 
 ## 10. Abschnitt: Schlussbestimmungen
-
-*Wird zu einem späteren Zeitpunkt in Kraft gesetzt.*
 
 **Art. 35** Vollzug
 
@@ -294,4 +392,865 @@ Ablauf der Referendumsfrist: 19. April 2025
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-*Wird zu einem späteren Zeitpunkt in Kraft gesetzt.*
+## 1. Ausländer und Integrationsgesetz vom 16. Dezember 2005
+
+**Art. 108*d* Abs. 5–7**
+
+<sup>5</sup> Die Verfahren zur Erteilung, Verweigerung, Annullierung oder zum Widerruf der ETIAS-Reisegenehmigung richten sich nach dem Verwaltungsverfahrensgesetz vom 20. Dezember 1968 (VwVG).
+
+<sup>6</sup> Das Bundesgesetz vom 20. Dezember 2024 über die Plattformen für die elektronische Kommunikation in der Justiz sowie die Artikel 6*a*, 6*b*, 11*b* Absatz 1, 20 Absatz 2</sup>ter</sup>, 22*a*, 24 und 26 Absatz 1bis VwVG sind auf die Verfahren nach Absatz 5 nicht anwendbar.
+
+<sup>7</sup> Der Bundesrat kann zur Umsetzung der Verordnung (EU) 2018/1240 und der Rechtsakte, welche die Europäischen Kommission gestützt auf diese EU-Verordnung erlässt, vom VwVG abweichende Bestimmungen erlassen über:
+- a. elektronische Eingaben und Zustellungen (Art. 11*b* Abs. 2, 21*a* und 34 Abs. 1bis VwVG);
+- b. die vorgängige Anhörung (Art. 30 VwVG);
+- c. die Zulässigkeit von Eingaben auf Englisch; Verfahrenssprache ist eine Amtssprache (Art. 33*a* VwVG).
+
+**Art. 108*d<sup>quater</sup>*** ETIAS-Beschwerdeverfahren: ETIAS-Übermittlungsplattform
+
+<sup>1</sup> Das Bundesverwaltungsgericht stellt die ETIAS-Übermittlungsplattform zur Verfügung.
+
+<sup>2</sup> Für die Nutzung der ETIAS-Übermittlungsplattform bei der Übermittlung von Eingaben sind das Bundesgesetz vom 20. Dezember 2024 über die Plattformen für die elektronische Kommunikation in der Justiz sowie die Artikel 6*a* und 47*a* VwVG nicht anwendbar.
+
+**Art. 108*d<sup>quinquies</sup>* Abs. 7**
+
+<sup>7</sup> Der Bundesrat kann zur Umsetzung der Verordnung (EU) 2018/1240 und der Rechtsakte, welche die Europäischen Kommission gestützt auf diese EU-Verordnung erlässt, vom VwVG abweichende Bestimmungen erlassen über:
+- a. elektronische Eingaben und Zustellungen (Art. 11*b* Abs. 2, 21*a* und 34 Abs. 1bis VwVG);
+- b. die Akteneinsicht über eine Plattform für die elektronische Übermittlung von Dokumenten (Art. 26 Abs. 1bis VwVG).
+
+## 2. Verwaltungsverfahrensgesetz vom 20. Dezember 1968
+
+*Gliederungstitel nach Art. 6*
+
+## Erster Abschnitt *a*:
+
+## Plattform für die elektronische Kommunikation und Aktenführung
+
+**Art. 6*a*** A. Plattform für die elektronische Kommunikation
+
+<sup>1</sup> Das Bundesgesetz vom 20. Dezember 2024 über die Plattformen für die elektronische Kommunikation in der Justiz (BEKJ) ist, mit Ausnahme des 2. Abschnitts zur Trägerschaft der Plattformen und des 7. Abschnitts zur Digitalisierung und Rücksendung von physischen Dokumenten, auf die Verfahren nach diesem Gesetz anwendbar, soweit dieses nichts anderes vorsieht.
+
+<sup>2</sup> Der Bundesrat beauftragt eine Verwaltungseinheit der zentralen Bundesverwaltung, für Verfahren nach diesem Gesetz eine Plattform für die elektronische Übermittlung von Dokumenten zur Verfügung zu stellen.
+
+<sup>3</sup> Werden Verfahrensdokumente elektronisch übermittelt, so sind dafür die folgenden Plattformen zu nutzen:
+- a. in Verfahren vor dem Bundesverwaltungsgericht: eine Plattform nach dem BEKJ;
+- b. in allen anderen Verfahren: die Plattform nach Absatz 2.
+
+<sup>4</sup> Die Behörden können mit der Einwilligung der Partei auch eine andere Art der elektronischen Übermittlung als über die Plattform nach Absatz 2 verwenden, wenn diese in geeigneter Weise erlaubt:
+- a. die Partei beziehungsweise ihren Vertreter eindeutig zu identifizieren;
+- b. die Zeitpunkte der Übermittlung und der Zustellung eindeutig festzustellen; und
+- c. das Dokument bis zur Zustellung vor Veränderung und unberechtigter Kenntnisnahme zu schützen.
+
+**Art. 6*b*** B. Führung und Weitergabe der Akten
+
+Die Behörden führen alle Akten elektronisch und geben sie über die nach Artikel 6*a* zu nutzende Plattform weiter. Ausgenommen sind Akten, die sich aus technischen Gründen nicht dafür eignen.
+
+**Art. 11*b*** III. Adresse
+
+<sup>1</sup> Parteien, die in einem Verfahren Begehren stellen, haben der Behörde ihren Wohnsitz oder Sitz anzugeben. Wenn sie im Ausland wohnen, haben sie eine Adresse auf der nach Artikel 6*a* zu nutzenden Plattform anzugeben oder ein Zustellungsdomizil in der Schweiz zu bezeichnen, es sei denn, das Völkerrecht oder die zuständige ausländische Stelle gestattet der Behörde, Schriftstücke im betreffenden Staat direkt zuzustellen.
+
+<sup>2</sup> Die Parteien können überdies eine Adresse auf der Plattform angeben und verlangen, dass der Austausch von Dokumenten mit ihnen über diese abgewickelt wird.
+
+**Art. 20 Abs. 2<sup>ter</sup> und 2<sup>quater</sup>**
+
+<sup>2ter</sup> Erfolgt die Zustellung über eine Plattform für die elektronische Übermittlung von Dokumenten, so gilt die Mitteilung im Zeitpunkt des erstmaligen Abrufs, wie er auf der Abrufquittung ausgewiesen ist, als erfolgt, spätestens jedoch am Ende des siebten Tags nach der Übermittlung an die Adresse des Adressaten, wie auf der Nichtabholquittung ausgewiesen.
+
+<sup>2quater</sup> Erfolgt der erstmalige Abruf an einem Samstag, einem Sonntag oder einem am Wohnsitz oder Sitz der Partei oder ihres Vertreters vom Bundesrecht oder vom kantonalen Recht anerkannten Feiertag und innerhalb von sieben Tagen seit der Zustellung, so gilt die Mitteilung am nächsten Werktag als erfolgt.
+
+**Art. 21*a*** 2. Bei elektro­nischer Einreichung
+
+<sup>1</sup> Bei elektronischer Einreichung der Eingabe ist für die Wahrung der Frist der auf der Eingangsquittung ausgewiesene Zeitpunkt der Übermittlung an die vom Absender benutzte Plattform massgebend.
+
+<sup>2</sup> Der Bundesrat regelt das Format der Dokumente.
+
+<sup>3</sup> Die Behörde kann verlangen, dass Dokumente auf Papier nach­gereicht werden, wenn:
+- a. aufgrund technischer Probleme die Gefahr besteht, dass die Bearbeitung innert nützlicher Frist nicht möglich ist;
+- b. dies zur Überprüfung der Echtheit der Dokumente oder zur weiteren Verwendung nötig ist.
+
+**Art. 26 Abs. 1 Einleitungssatz und 1<sup>bis</sup>**
+
+<sup>1</sup> Die Partei oder ihr Vertreter hat Anspruch darauf, in ihrer Sache folgende Akten am Sitz der verfügenden oder einer durch diese zu bezeichnenden kantonalen Behörde in der Form einzusehen, in der sie vorliegen:
+
+<sup>1bis</sup> Personen, die mit der Behörde über eine Plattform für die elektronische Übermittlung von Dokumenten kommunizieren, wird die Akteneinsicht auf dieser Plattform gewährt.
+
+**Art. 34 Abs. 1<sup>bis</sup>**
+
+<sup>1bis</sup> Der Bundesrat regelt das Format der Dokumente, die elektronisch übermittelt werden.
+
+**Art. 47*a*** C<sup>bis</sup>. Pflicht zur elektronischen Übermittlung
+
+<sup>1</sup> Behörden sowie Personen, die berufsmässig Parteien vor schweizerischen Gerichtsbehörden vertreten, haben den Austausch von Dokumenten mit den Beschwerdeinstanzen über die nach Artikel 6*a* zu nutzende Plattform abzuwickeln. 
+
+<sup>2</sup> Als berufsmässig handelnde Person gilt:
+- a. wer bereit ist, in einer unbestimmten Zahl von Fällen die Vertretung zu übernehmen;
+- b. Anwältinnen und Anwälte, die nach dem Anwaltsgesetz vom 23. Juni 2000 oder nach einem Staatsvertrag berechtigt sind, Parteien vor schweizerischen Gerichtsbehörden zu vertreten.
+
+<sup>3</sup> Wer zur Benutzung einer Plattform verpflichtet ist und Eingaben auf Papier einreicht, dem setzt die Beschwerdebehörde eine angemessene Frist für die elektronische Einreichung mit der Androhung, dass die Eingabe andernfalls als nicht erfolgt gilt.
+
+<sup>4</sup> Ausgenommen sind Dokumente, die sich aus technischen Gründen nicht dafür eignen.
+
+**Art. 47*b*** C<sup>ter</sup>. Verzicht auf elektronische Kommunikation
+
+Ist eine Partei nicht zur elektronischen Kommunikation nach Artikel 47*a* verpflichtet, kann sie verlangen, dass die Kommunikation mit ihr nicht mehr elektronisch abgewickelt wird.
+
+**Art. 52 Abs. 1 und 3**
+
+<sup>1</sup> Die Beschwerdeschrift hat die Begehren und deren Begründung mit Angabe der Beweismittel zu enthalten; die Ausfertigung der angefochtenen Verfügung und die als Beweismittel angerufenen Urkunden sind beizulegen, soweit der Beschwerdeführer sie in Händen hat. Die Beschwerdeschrift in Papierform ist vom Beschwerdeführer oder seinem Vertreter zu unterzeichnen.
+
+<sup>3</sup> Sie verbindet diese Nachfrist mit der Androhung, nach unbenutztem Fristablauf aufgrund der Akten zu entscheiden oder, wenn das Begehren, die Begründung oder bei Eingaben in Papierform die Unterschrift fehlt, auf die Beschwerde nicht einzutreten.
+
+**Schlussbestimmungen zur Änderung vom 20. Dezember 2024**
+
+<sup>1</sup> Auf die im Zeitpunkt des Inkrafttretens der Artikel 6*b* und 47*a* hängigen Streitigkeiten vor Behörden der Verwaltungsrechtspflege und Beschwerden oder Einsprachen gegen vor diesem Zeitpunkt getroffene Verfügungen bleiben die Verfahrensbestimmungen nach bisherigem Recht anwendbar.
+
+<sup>2</sup> Besteht im Zeitpunkt des Inkrafttretens des BEKJ bereits ein System einer Behörde für die elektronische Kommunikation mit einer anderen Behörde, das die sichere elektronische Übermittlung zu einer anderen Behörde zulässt, so kann dieses System während fünf Jahren weiter benutzt werden.
+
+<sup>3</sup> Die Artikel 6*b* und 47*a* gelten ab dem vom Bundesrat nach Artikel 37 Absatz 4 BEKJ festgelegten Zeitpunkt.
+
+## 3. Bundesgerichtsgesetz vom 17. Juni 2005
+
+*Gliederungstitel nach Art. 38*
+
+### 3*a.* Abschnitt: Elektronische Kommunikation und Aktenführung
+
+**Art. 38*a*** Anwendbare Bestimmungen
+
+Die Bestimmungen des Bundesgesetzes vom 20. Dezember 2024 über die Plattformen für die elektronische Kommunikation in der Justiz (BEKJ) sind auf die Verfahren nach dem vorliegenden Gesetz anwendbar, soweit dieses nichts anderes vorsieht.
+
+**Art. 38*b*** Führung und Weitergabe der Akten
+
+Das Bundesgericht führt alle Akten elektronisch und gibt sie über eine Plattform nach dem BEKJ weiter. Ausgenommen sind Akten, die sich aus technischen Gründen nicht dafür eignen.
+
+**Art. 38*c*** Pflicht zur elektronischen Übermittlung
+
+<sup>1</sup> Behörden sowie Personen, die berufsmässig Parteien vor schweizerischen Gerichtsbehörden vertreten, müssen den Austausch von Dokumenten mit dem Bundesgericht über eine Plattform nach dem BEKJ abwickeln.
+
+<sup>2</sup> Als berufsmässig handelnde Person gilt:
+- a. wer bereit ist, in einer unbestimmten Zahl von Fällen die Vertretung zu übernehmen;
+- b. Anwältinnen und Anwälte, die nach dem Anwaltsgesetz vom 23. Juni 2000 oder nach einem Staatsvertrag berechtigt sind, Parteien vor schweizerischen Gerichtsbehörden zu vertreten.
+
+<sup>3</sup> Wer in einem vorinstanzlichen Verfahren zur Benutzung einer Plattform verpflichtet war, ist vor Bundesgericht weiterhin dazu verpflichtet.
+
+<sup>4</sup> Wer zur Benutzung einer Plattform verpflichtet ist und Eingaben auf Papier einreicht, dem setzt das Bundesgericht eine angemessene Frist für die elektronische Einreichung mit der Androhung, dass die Eingabe andernfalls als nicht erfolgt gilt.
+
+<sup>5</sup> Ausgenommen sind Dokumente, die sich aus technischen Gründen nicht dafür eignen.
+
+**Art. 38*d*** Elektronische Kommunikation auf Verlangen der Partei
+
+<sup>1</sup> Ist eine Person nicht zur elektronischen Kommunikation mit dem Bundesgericht verpflichtet, so kann sie verlangen, dass die Kommunikation mit ihr über eine Plattform nach dem BEKJ elektronisch abgewickelt wird. In diesem Fall muss sie auf der Plattform eine Adresse angeben.
+
+<sup>2</sup> Sie kann verlangen, dass die Kommunikation mit ihr nicht mehr elektronisch abgewickelt wird, sofern sie ihren Wohnsitz oder Sitz bezeichnet. Liegt dieser im Ausland, muss sie ein Zustellungsdomizil in der Schweiz bezeichnen.
+
+**Art. 38*e*** Format
+
+Der Bundesrat regelt das Format der Dokumente.
+
+**Art. 38*f*** Nachreichung von Dokumenten auf Papier
+
+Das Bundesgericht kann verlangen, dass Dokumente auf Papier nachgereicht werden, wenn:
+- a. aufgrund technischer Probleme die Gefahr besteht, dass die Bearbeitung innert nützlicher Frist nicht möglich ist;
+- b. dies zur Überprüfung der Echtheit der Dokumente oder zur weiteren Verwendung nötig ist.
+
+**Art. 38*g*** Elektronische Akteneinsicht
+
+Personen, die mit dem Bundesgericht elektronisch kommunizieren, wird die Akteneinsicht auf einer Plattform nach dem BEKJ gewährt.
+
+**Art. 39 Abs. 2 und 3**
+
+<sup>2</sup> *Aufgehoben*
+
+<sup>3</sup> Parteien, die im Ausland wohnen, müssen eine Adresse auf einer Plattform nach dem BEKJ angeben oder ein Zustellungsdomizil in der Schweiz bezeichnen. Mitteilungen an Parteien, die dieser Auflage nicht Folge leisten, können unterbleiben oder in einem amtlichen Blatt eröffnet werden.
+
+**Art. 42 Abs. 1, 4 und 5**
+
+<sup>1</sup> Rechtsschriften sind in einer Amtssprache abzufassen und haben die Begehren, die Begründung mit Angabe der Beweismittel und, bei Eingabe auf Papier, die Unterschrift zu enthalten.
+
+<sup>4</sup> *Aufgehoben*
+
+<sup>5</sup> Fehlen die Unterschrift der Partei oder ihrer Vertretung bei Eingaben auf Papier, fehlt die Vollmacht, fehlen die vorgeschriebenen Beilagen oder ist die Vertretung nicht zugelassen, so wird eine angemessene Frist zur Behebung des Mangels angesetzt mit der Androhung, dass die Rechtsschrift andernfalls als nicht eingereicht gilt.
+
+**Art. 44 Abs. 3 und 4**
+
+<sup>3</sup> Erfolgt die Zustellung über eine Plattform nach dem BEKJ, so gilt die Mitteilung im Zeitpunkt des erstmaligen Abrufs, wie er auf der Abrufquittung ausgewiesen ist, als erfolgt, spätestens jedoch am Ende des siebten Tags nach der Übermittlung an die Adresse des Adressaten oder der Adressatin, wie auf der Nichtabholquittung ausge­wiesen.
+
+<sup>4</sup> Erfolgt der erstmalige Abruf an einem Samstag, einem Sonntag oder einem am Wohnsitz oder Sitz der Partei oder ihres Vertreters vom Bundesrecht oder vom kantonalen Recht anerkannten Feiertag und innerhalb von sieben Tagen seit der Zustellung, so gilt die Mitteilung am nächsten Werktag als erfolgt.
+
+**Art. 60 Abs. 3**
+
+*Aufgehoben*
+
+**Art. 132*b*** Übergangsbestimmungen zur Änderung vom 20. Dezember 2024
+
+<sup>1</sup> Auf im Zeitpunkt des Inkrafttretens der Artikel 38*b* und 38*c* hängige Verfahren bleiben die Verfahrensbestimmungen nach bisherigem Recht anwendbar.
+<sup>2</sup> Die Artikel 38*b* und 38*c* gelten ab dem vom Bundesrat nach Artikel 37 Absatz 4 BEKJ festgelegten Zeitpunkt.
+
+## 4. Verwaltungsgerichtsgesetz vom 17. Juni 2005
+
+**Art. 37*a*** Elektronische Übermittlung
+
+Abweichend von Artikel 6*a* VwVG sind alle Bestimmungen des Bundesgesetzes vom 20. Dezember 2024 über die Plattformen für die elektronische Kommunikation in der Justiz (BEKJ) anwendbar. Für die elektronische Übermittlung wird eine Plattform nach dem BEKJ eingesetzt.
+
+## 5. Zivilgesetzbuch
+
+**Art. 450*f***
+
+<sup>1</sup> Die Bestimmungen der Zivilprozessordnung über die elektronische Kommunikation und über die elektronische Aktenführung sind anwendbar.
+
+<sup>2</sup> Im Übrigen sind die Bestimmungen der Zivilprozessordnung sinngemäss anwendbar, soweit die Kantone nichts anderes bestimmen.
+
+## 6. Markenschutzgesetz vom 28. August 1992
+
+**Art. 42 Abs. 1**
+
+<sup>1</sup> Wer an einem Verwaltungsverfahren nach diesem Gesetz beteiligt ist und in der Schweiz keinen Wohnsitz oder Sitz hat, muss eine Adresse auf einer Plattform nach dem Bundesgesetz vom 20. Dezember 2024 über die Plattformen für die elektronische Kommunikation in der Justiz oder ein Zustellungsdomizil in der Schweiz bezeichnen, es sei denn, das Völkerrecht oder die zuständige ausländische Stelle gestatte der Behörde, Schriftstücke im betreffenden Staat direkt zuzustellen.
+
+## 7. Designgesetz vom 5. Oktober 2001
+
+**Art. 18 Abs. 1**
+
+<sup>1</sup> Wer an einem Verwaltungsverfahren nach diesem Gesetz beteiligt ist und in der Schweiz keinen Wohnsitz oder Sitz hat, muss eine Adresse auf einer Plattform nach dem Bundesgesetz vom 20. Dezember 2024 über die Plattformen für die elektronische Kommunikation in der Justiz angeben oder ein Zustellungsdomizil in der Schweiz bezeichnen, es sei denn, das Völkerrecht oder die zuständige ausländische Stelle gestatte der Behörde, Schriftstücke im betreffenden Staat direkt zuzustellen.
+
+## 8. Patentgesetz vom 25. Juni 1954
+
+**Art. 13 Abs. 1 Einleitungsteil**
+
+<sup>1</sup> Wer an einem Verwaltungsverfahren nach diesem Gesetz beteiligt ist und in der Schweiz keinen Wohnsitz oder Sitz hat, muss eine Adresse auf einer Plattform nach dem Bundesgesetz vom 20. Dezember 2024 über die Plattformen für die elektronische Kommunikation in der Justiz (BEKJ) angeben oder ein Zustellungsdomizil in der Schweiz bezeichnen, es sei denn, das Völkerrecht oder die zuständige ausländische Stelle gestatte der Behörde, Schriftstücke im betreffenden Staat direkt zuzustellen. Weder eine Adresse auf der Plattform nach dem BEKJ noch ein Zustelldomizil in der Schweiz ist erforderlich für:
+
+## 9. Zivilprozessordnung
+
+*Gliederungstitel nach Art. 128*
+
+### 2. Kapitel: Formen des prozessualen Handelns
+
+#### 1. Abschnitt: Elektronische Kommunikation und Aktenführung
+
+**Art. 128*a*** Anwendbare Bestimmungen
+
+<sup>1</sup> Die Bestimmungen des Bundesgesetzes vom 20. Dezember 2024 über die Plattformen für die elektronische Kommunikation in der Justiz (BEKJ) sind auf die Verfahren nach dem vorliegenden Gesetz anwendbar, soweit dieses nichts anderes vorsieht.
+
+<sup>2</sup> Ausgenommen sind Verfahren vor einem Schiedsgericht.
+
+**Art. 128*b*** Führung und Weitergabe der Akten
+
+<sup>1</sup> Das Gericht führt alle Akten elektronisch und gibt sie über eine Plattform nach dem BEKJ weiter. Ausgenommen sind Akten, die sich aus technischen Gründen nicht dafür eignen.
+
+<sup>2</sup> Für die Weitergabe innerhalb eines Kantons können auch andere technisch geeignete Lösungen eingesetzt werden. Diese müssen in geeigneter Weise erlauben:
+- a. die Zeitpunkte der Übermittlung eindeutig festzustellen; und
+- b. die Akte vor Veränderung und unberechtigter Kenntnisnahme zu schützen.
+
+<sup>3</sup> Der Bundesrat bestimmt die Anforderungen nach Absatz 2.
+
+<sup>4</sup> Die Schlichtungsbehörden sind von der Pflicht nach Absatz 1 ausgenommen.
+
+**Art. 128*c*** Pflicht zur elektronischen Übermittlung
+
+<sup>1</sup> Gerichte und Amtsstellen sowie berufsmässig handelnde Vertreterinnen und Vertreter müssen den Austausch von Dokumenten mit dem Gericht über eine Plattform nach dem BEKJ abwickeln. Ausgenommen sind die Schlichtungsbehörden.
+
+<sup>2</sup> Der Bundesrat kann für Gerichte und Amtsstellen Ausnahmen vorsehen.
+
+<sup>3</sup> Reichen die nach Absatz 1 Verpflichteten Eingaben auf Papier ein, so setzt das Gericht ihnen eine angemessene Frist für die elektronische Einreichung mit der Androhung, dass die Eingabe andernfalls als nicht erfolgt gilt.
+
+<sup>4</sup> Ausgenommen sind Dokumente, die sich aus technischen Gründen nicht dafür eignen.
+
+**Art. 128*d*** Elektronische Kommunikation auf Verlangen der Partei
+
+<sup>1</sup> Ist eine Person nicht zur elektronischen Kommunikation verpflichtet, so kann sie verlangen, dass die Kommunikation mit ihr über eine Plattform nach dem BEKJ elektronisch abgewickelt wird. In diesem Fall muss sie auf der Plattform eine Adresse angeben.
+
+<sup>2</sup> Sie kann verlangen, dass die Kommunikation mit ihr nicht mehr elektronisch abgewickelt wird, sofern sie ihren Wohnsitz oder Sitz bezeichnet. Liegt dieser im Ausland, muss sie ein Zustellungsdomizil in der Schweiz bezeichnen.
+
+**Art. 128*e*** Format
+
+Der Bundesrat regelt das Format der Dokumente.
+
+**Art. 128*f*** Nachreichung von Dokumenten auf Papier
+
+Das Gericht kann verlangen, dass Dokumente auf Papier nachgereicht werden, wenn:
+- a. aufgrund technischer Probleme die Gefahr besteht, dass die Bearbeitung innert nützlicher Frist nicht möglich ist;
+- b. dies zur Überprüfung der Echtheit der Dokumente oder zur weiteren Verwendung nötig ist.
+
+**Art. 128*g*** Elektronische Akteneinsicht
+
+Personen, die mit dem Gericht elektronisch kommunizieren, wird die Akteneinsicht auf einer Plattform nach dem BEKJ gewährt.
+
+*Gliederungstitel vor Art. 129*
+
+#### 1*a.* Abschnitt: Verfahrenssprache
+
+**Art. 130** Form
+
+Eingaben sind dem Gericht auf Papier oder über eine Plattform nach dem BEKJ einzureichen. Eingaben auf Papier sind zu unterzeichnen.
+
+**Art. 133 Bst. g und h**
+
+Die Vorladung enthält:
+- g. das Datum der Vorladung;
+- h. die Unterschrift des Gerichts, falls die Vorladung auf Papier versendet wird.
+
+**Art. 138 Abs. 1**
+
+<sup>1</sup> Die Zustellung von Vorladungen, Verfügungen und Entscheiden erfolgt bei Personen, die nicht über eine Plattform nach dem BEKJ kommunizieren, durch eingeschriebene Postsendung oder auf andere Weise gegen Empfangsbestätigung.
+
+**Art. 139** Elektronische Zustellung
+
+Erfolgt die Zustellung über eine Plattform nach dem BEKJ, so gilt die Mitteilung im Zeitpunkt des erstmaligen Abrufs, wie er auf der Abrufquittung ausgewiesen ist, als erfolgt, spätestens jedoch am Ende des siebten Tags nach der Übermittlung an die Adresse der Adressatin oder des Adressaten, wie auf der Nichtabholquittung ausge­wiesen.
+
+**Art. 142 Abs. 1<sup>bis</sup>**
+
+<sup>1bis</sup> Erfolgt die Zustellung einer Sendung an einem Samstag, einem Sonntag oder einem am Gerichtsort vom Bundesrecht oder vom kantonalen Recht anerkannten Feiertag durch gewöhnliche Post (Art. 138 Abs. 4) oder elektronisch (Art. 139), so gilt die Mitteilung nach Absatz 1 am nächsten Werktag als erfolgt.
+
+**Art. 143 Abs. 2**
+
+<sup>2</sup> Bei elektronischer Einreichung der Eingabe ist für die Wahrung einer Frist der Zeitpunkt massgebend, der in der Eingangsquittung ausgewiesen ist.
+
+**Art. 208 Abs. 1bis**
+
+<sup>1bis</sup> Wird die Zustimmung zur Einigung, die Klageanerkennung oder der vorbehaltlose Klagerückzug mit technischen Hilfsmitteln aufgezeichnet, so kann auf die Unterzeichnung des Protokolls verzichtet werden. Aus den Aufzeichnungen muss hervorgehen, um welches Verfahren es sich handelt, was der Inhalt der Einigung ist und wer die Zustimmung erteilt. Die Aufzeichnungen werden zu den Akten genommen.
+
+**Art. 221 Abs. 1 Bst. f und g**
+
+<sup>1</sup> Die Klage enthält:
+- f. das Datum;
+- g. die Unterschrift, falls die Klage auf Papier eingereicht wird.
+
+**Art. 235 Abs. 1 Bst. f und 2<sup>bis</sup>**
+
+<sup>1</sup> Das Gericht führt über jede Verhandlung Protokoll. Dieses enthält insbesondere:
+- f. die Unterschrift der protokollführenden Person, falls das Protokoll auf Papier versendet wird.
+
+<sup>2bis</sup> Wird die Verhandlung mit technischen Hilfsmitteln aufgezeichnet, so muss das Protokoll nicht unterzeichnet werden. Die Aufzeichnungen werden zu den Akten genommen.
+
+**Art. 238 Bst. h**
+
+Ein Entscheid enthält:
+-h. die Unterschrift des Gerichts, falls der Entscheid auf Papier versendet wird.
+
+**Art. 241 Abs. 1<sup>bis</sup>**
+
+<sup>1bis</sup> Wird die Zustimmung zum Vergleich, die Klageanerkennung oder der Klagerückzug mit technischen Hilfsmitteln aufgezeichnet, so kann auf die Unterzeichnung des Protokolls verzichtet werden. Die Aufzeichnungen werden zu den Akten genommen.
+
+**Art. 244 Abs. 1 Bst. e und f**
+
+<sup>1</sup> Die Klage kann in den Formen nach Artikel 130 eingereicht oder mündlich bei Gericht zu Protokoll gegeben werden. Sie enthält:
+- e. das Datum;
+- f. die Unterschrift, ausser in den folgenden Fällen:
+	- \1. die Klage wird über eine Plattform nach dem BEKJ eingereicht,
+	- \2. die Klage wird mündlich zu Protokoll gegeben und mit technischen Hilfsmitteln aufgezeichnet; die Aufzeichnungen werden zu den Akten genommen.
+
+**Art. 285 Bst. f und g**
+
+Die gemeinsame Eingabe der Ehegatten enthält:
+- f. das Datum;
+- g. die Unterschriften, falls die Eingabe auf Papier eingereicht wird.
+
+**Art. 290 Bst. f und g**
+Die Scheidungsklage kann ohne schriftliche Begründung eingereicht werden. Sie enthält:
+- f. das Datum;
+- g. die Unterschriften, falls die Klage auf Papier eingereicht wird.
+
+*Gliederungstitel nach Art. 407f*
+
+### 8. Kapitel
+
+#### Übergangsbestimmung zur Änderung vom 20. Dezember 2024
+
+**Art. 407*g***
+
+<sup>1</sup> Auf im Zeitpunkt des Inkrafttretens der Artikel 128*b* und 128*c* hängige Verfahren bleiben die Verfahrensbestimmungen nach bisherigem Recht anwendbar.
+
+<sup>2</sup> Für Verfahren vor einer bestimmten kantonalen Behörde gelten die Artikel 128*b* und 128*c* ab dem Zeitpunkt, der von diesem Kanton nach Artikel 37 Absatz 3 BEKJ angekündigt wurde. Für Verfahren vor Behörden des Bundes gelten diese Artikel ab dem vom Bundesrat nach Artikel 37 Absatz 4 BEKJ festgelegten Zeitpunkt.
+
+## 10. Bundesgesetz vom 4. Dezember 1947 über den Zivilprozess
+
+**Art. 7 Abs. 1<sup>bis</sup> und 2<sup>bis</sup>**
+
+<sup>1bis</sup> Werden die Verhandlungen mit technischen Hilfsmitteln aufgezeichnet, so kann das Protokoll zu einem späteren Zeitpunkt niedergeschrieben werden. Die Aufzeichnungen werden zu den Akten genommen.
+
+<sup>2bis</sup> Werden die Aussagen mit technischen Hilfsmitteln aufgezeichnet, so kann auf die Unterzeichnung verzichtet werden.
+
+**Art. 23 Bst. g und h**
+Die Klageschrift hat zu enthalten:
+- g. das Datum;
+- h. die Unterschrift des Verfassers, falls die Klageschrift auf Papier eingereicht wird.
+
+## 11. Bundesgesetz vom 11. April 1889 über Schuldbetreibung und Konkurs
+
+**Art. 33*a* Randtitel und Abs. 2**  A<sup>bis</sup>. Elektro­nische Über­mittlung   /   1. Im Allgemeinen
+
+<sup>2</sup> Die Eingabe ist mit einer qualifizierten elektronischen Signatur nach dem Bundesgesetz vom 18. März 2016 über die elektronische Signatur (ZertES) zu versehen, es sei denn, sie wird über eine Plattform nach dem Bundesgesetz vom 20. Dezember 2024 über die Plattformen für die elektronische Kommunikation in der Justiz (BEKJ) eingereicht.
+
+**Art. 33*b*** 2. In einer geschlossenen Benutzergruppe
+
+<sup>1</sup> Der Bundesrat regelt die technischen und organisatorischen Vorgaben und das Datenformat für den Austausch von Betreibungs- und Konkursdaten in einer geschlossenen Benutzergruppe, bestehend aus natürlichen Personen, juristischen Personen des privaten und des öffentlichen Rechts sowie Betreibungs- und Konkursämtern.
+
+<sup>2</sup> Er bestimmt die zu verwendende Plattform und die zu verwendende elektronische Signatur nach dem ZertES.
+
+**Art. 33*c*** 3. Gerichte
+
+<sup>1</sup> Die Betreibungs- und Konkursämter sowie die Aufsichtsbehörden tauschen Dokumente mit Gerichten nur über eine Plattform nach dem BEKJ aus.
+
+<sup>2</sup> Der Bundesrat regelt das Format der Dokumente.
+
+**Art. 34 Abs. 2 und 3**
+
+<sup>2</sup> Mit dem Einverständnis der betroffenen Person können Mitteilungen, Verfügungen und Entscheide elektronisch zugestellt werden. Sie sind mit einer elektronischen Signatur nach dem ZertES zu versehen, sofern sie nicht über eine Plattform nach dem BEKJ zugestellt werden.
+
+<sup>3</sup> Der Bundesrat regelt:
+- a. die zu verwendende Signatur;
+- b. das Format der Mitteilungen, Verfügungen und Entscheide sowie ihrer Beilagen;
+- c. die Art und Weise der Übermittlung;
+- d. den Zeitpunkt, in dem die Mitteilung, die Verfügung oder der Entscheid als zugestellt gilt.
+
+## 12. Strafprozessordnung
+
+**Art. 76*a*** Form der Bestätigung von Protokollen
+
+<sup>1</sup> Die Richtigkeit eines Protokolls wird durch eigenhändige Unterschrift auf Papier oder auf einem elektronischen Gerät bestätigt.
+
+<sup>2</sup> Der Bundesrat bestimmt die Anforderungen an:
+- a. die elektronische Bestätigung;
+- b. die Sicherstellung der Unveränderbarkeit von elektronisch bestätigten Protokollen.
+
+**Art. 78 Abs. 5, 6 erster Satz und 6<sup>bis</sup>**
+
+<sup>5</sup> Nach Abschluss der Einvernahme wird der einvernommenen Person das Protokoll vorgelesen oder ihr zum Lesen vorgelegt. Sie hat die Richtigkeit des Protokolls nach Kenntnisnahme zu bestätigen. Erfolgt die Bestätigung durch Unterschrift auf Papier, so hat sie jede Seite zu visieren. Lehnt sie es ab, das Protokoll durchzulesen oder zu bestätigen, so werden die Weigerung und die dafür angegebenen Gründe im Protokoll vermerkt.
+
+<sup>6</sup> Wird die Einvernahme mittels Videokonferenz durchgeführt, so hat die einvernommene Person die Richtigkeit des Protokolls in Form einer mündlichen Erklärung zu bestätigen. …
+
+<sup>6bis</sup> Wird die Videokonferenz aufgezeichnet, so sind die mündliche Erklärung und der Protokollvermerk nicht erforderlich. Die Aufzeichnungen werden zu den Akten genommen.
+
+**Art. 80 Abs. 2**
+
+<sup>2</sup> Entscheide ergehen schriftlich; sie werden begründet und den Parteien zugestellt. Erfolgt die Zustellung auf Papier, so werden sie von der Verfahrensleitung sowie der protokollführenden Person unterzeichnet.
+
+**Art. 85 Abs. 2**
+
+<sup>2</sup> Die Zustellung erfolgt über eine Plattform nach dem Bundesgesetz vom 20. Dezember 2024 über die Plattformen für die elektronische Kommunikation in der Justiz (BEKJ), durch eingeschriebene Postsendung oder auf andere Weise gegen Empfangsbestätigung, insbesondere durch die Polizei.
+
+**Art. 86** Elektronische Zustellung
+
+<sup>1</sup> Erfolgt die Zustellung über eine Plattform nach dem BEKJ, so gilt die Mitteilung im Zeitpunkt des erstmaligen Abrufs, wie er auf der Abrufquittung ausgewiesen ist, als erfolgt, spätestens jedoch am Ende des siebten Tags nach der Übermittlung an die Adresse der Adressatin oder des Adressaten, wie auf der Nichtabholquittung ausge­wiesen.
+
+<sup>2</sup> Erfolgt der erstmalige Abruf an einem Samstag, einem Sonntag oder einem am Wohnsitz oder Sitz der Partei oder ihres Vertreters vom Bundesrecht oder vom kantonalen Recht anerkannten Feiertag und innerhalb von sieben Tagen seit der Zustellung, so gilt die Mitteilung am nächsten Werktag als erfolgt.
+
+**Art. 87 Abs. 1**
+
+<sup>1</sup> Mitteilungen sind den Adressatinnen und Adressaten an ihre auf einer Plattform nach dem BEKJ angegebene Adresse, an ihren Wohnsitz, ihren gewöhnlichen Aufenthaltsort oder ihren Sitz zuzustellen.
+
+**Art. 100 Abs. 3**
+
+<sup>3</sup> Die Strafbehörden führen alle Akten elektronisch. Ausgenommen sind Akten, die sich aus technischen Gründen nicht dafür eignen.
+
+**Art. 102 Abs. 2 und 3**
+
+<sup>2</sup> Die Akten sind am Sitz der betreffenden Strafbehörde oder rechtshilfeweise bei einer andern Strafbehörde in der Form einzusehen, in der sie vorliegen. Personen, die mit der Strafbehörde elektronisch kommunizieren, wird die Akteneinsicht auf einer Plattform nach dem BEKJ gewährt.
+
+<sup>3</sup> Wer zur Einsicht berechtigt ist, kann eine Kopie der Akten verlangen. Für Kopien auf Papier wird eine Gebühr erhoben.
+
+*Gliederungstitel nach Art. 103*
+
+### 10. Abschnitt: Elektronische Kommunikation
+
+**Art. 103*a*** Anwendbare Bestimmungen
+
+Die Bestimmungen des BEKJ sind auf die Verfahren nach dem vorliegenden Gesetz anwendbar, soweit dieses nichts anderes vorsieht.
+
+**Art. 103*b*** Weitergabe der Akten
+
+<sup>1</sup> Soweit nicht zwingende Gründe dagegensprechen, geben die Strafbehörden die Akten über eine Plattform nach dem BEKJ weiter.
+
+<sup>2</sup> Für die Weitergabe unter Strafbehörden können auch andere technisch geeignete Lösungen eingesetzt werden. Diese müssen in geeigneter Weise erlauben:
+- a. die Zeitpunkte der Übermittlung eindeutig festzustellen; und
+- b. die Akte vor Veränderung und unberechtigter Kenntnisnahme zu schützen.
+
+<sup>3</sup> Der Bundesrat bestimmt die Anforderungen nach Absatz 2.
+
+**Art. 103*c*** Pflicht zur elektronischen Übermittlung
+
+<sup>1</sup> Behörden sowie berufsmässig handelnde Rechtsbeistände müssen den Austausch von Dokumenten mit der Strafbehörde über eine Plattform nach dem BEKJ abwickeln.
+
+<sup>2</sup> Der Bundesrat kann für Behörden Ausnahmen vorsehen.
+
+<sup>3</sup> Verpflichtete nach Absatz 1, die Eingaben auf Papier einreichen, setzt die Straf­behörde eine angemessene Frist für die elektronische Einreichung mit der Androhung, dass die Eingabe andernfalls als nicht erfolgt gilt.
+
+<sup>4</sup> Ausgenommen sind Dokumente, die sich aus technischen Gründen nicht dafür eignen.
+
+**Art. 103*d*** Elektronische Kommunikation auf Verlangen der Partei
+
+<sup>1</sup> Ist eine Person nicht zur elektronischen Kommunikation mit der Strafbehörde verpflichtet, so kann sie verlangen, dass die Kommunikation mit ihr über eine Plattform nach dem BEKJ elektronisch abgewickelt wird. In diesem Fall muss sie auf der Plattform eine Adresse angeben.
+
+<sup>2</sup> Sie kann verlangen, dass die Kommunikation mit ihr nicht mehr elektronisch abgewickelt wird, sofern sie ihren Wohnsitz oder Sitz bezeichnet. Liegt dieser im Ausland, muss sie ein Zustellungsdomizil in der Schweiz bezeichnen.
+
+**Art. 103*e*** Format
+
+Der Bundesrat regelt das Format der Dokumente.
+
+**Art. 103*f*** Nachreichung von Dokumenten auf Papier
+
+Die Strafbehörde kann verlangen, dass Dokumente auf Papier nachgereicht werden, wenn:
+- a. aufgrund technischer Probleme die Gefahr besteht, dass die Bearbeitung innert nützlicher Frist nicht möglich ist;
+- b. dies zur Überprüfung der Echtheit der Dokumente oder zur weiteren Verwendung nötig ist.
+
+**Art. 110 Abs. 1 und 2**
+
+<sup>1</sup> Eingaben können schriftlich auf Papier oder über eine Plattform nach dem BEKJ eingereicht oder mündlich zu Protokoll gegeben werden. Schriftliche Eingaben auf Papier sind zu datieren und zu unterzeichnen.
+
+<sup>2</sup> *Aufgehoben*
+
+**Art. 199** Eröffnung der Anordnung
+
+Ist eine Zwangsmassnahme schriftlich anzuordnen und ist sie nicht geheim zu halten, so wird den direkt betroffenen Personen eine Kopie des Befehls und eines allfälligen Vollzugsprotokolls gegen Empfangsbestätigung übergeben oder über eine Plattform nach dem BEKJ zugestellt.
+
+**Art. 201 Abs. 2 Bst. h**
+
+<sup>2</sup> Sie enthalten:
+- h. die Unterschrift der vorladenden Person, falls die Vorladung auf Papier versendet wird.
+
+**Art. 316 Abs. 3</sup>bis</sup>**
+
+<sup>3bis</sup> Wird die Zustimmung zur Einigung mit technischen Hilfsmitteln aufgezeichnet, so kann auf die Unterzeichnung des Protokolls verzichtet werden. Die Aufzeichnungen werden zu den Akten genommen.
+
+**Art. 353 Abs. 1 Bst. k**
+
+<sup>1</sup> Der Strafbefehl enthält:
+- k. die Unterschrift der ausstellenden Person, falls der Strafbefehl auf Papier versendet wird.
+
+*Gliederungstitel nach Art. 456a*
+
+### 6. Abschnitt
+
+### Übergangsbestimmungen zur Änderung vom 20. Dezember 2024
+
+**Art. 456*b***
+
+<sup>1</sup> Auf im Zeitpunkt des Inkrafttretens der Artikel 103*b* und 103*c* hängige Verfahren bleiben die Verfahrensbestimmungen nach bisherigem Recht anwendbar.
+
+<sup>2</sup> Für Verfahren vor einer bestimmten kantonalen Behörde gelten die Artikel 100, 103*b* und 103*c* ab dem Zeitpunkt, der von diesem Kanton nach Artikel 37 Absatz 3 BEKJ angekündigt wurde. Für Verfahren vor Behörden des Bundes gelten diese Artikel ab dem vom Bundesrat nach Artikel 37 Absatz 4 BEKJ festgelegten Zeitpunkt.
+
+## 13. Bundesgesetz vom 23. Dezember 2011 über den ausserprozessualen Zeugenschutz
+
+*Gliederungstitel vor Art. 1*
+
+### 1. Kapitel: Allgemeine Bestimmungen
+
+#### 1. Abschnitt: Gegenstand und Geltungsbereich
+
+*Gliederungstitel nach Art. 2*
+
+#### 2. Abschnitt: Elektronische Kommunikation und Aktenführung
+
+**Art. 2*a*** Anwendbare Bestimmungen
+
+Die Bestimmungen des Bundesgesetzes vom 20. Dezember 2024 über die Plattformen für die elektronische Kommunikation in der Justiz (BEKJ) sind auf die Verfahren nach dem vorliegenden Gesetz anwendbar, soweit dieses nichts anderes vorsieht.
+
+**Art. 2*b*** Führung und Weitergabe der Akten
+
+Die Zeugenschutzstelle führt alle Akten elektronisch und gibt sie über eine Plattform nach dem BEKJ weiter. Ausgenommen sind Akten, die sich aus technischen Gründen nicht dafür eignen.
+
+**Art. 2*c*** Pflicht zur elektronischen Übermittlung
+
+<sup>1</sup> Behörden sowie Anwältinnen und Anwälte, die nach dem Anwaltsgesetz vom 23. Juni 2000 oder nach einem Staatsvertrag berechtigt sind, Parteien vor schweize­rischen Gerichtsbehörden zu vertreten, müssen den Austausch von Dokumenten mit der Zeugenschutzstelle über eine Plattform nach dem BEKJ abwickeln.
+
+<sup>2</sup> Reichen sie Eingaben auf Papier ein, so setzt die Zeugenschutzstelle eine angemessene Frist für die elektronische Einreichung mit der Androhung, dass die Eingabe andernfalls als nicht erfolgt gilt.
+
+<sup>3</sup> Ausgenommen sind Akten, die sich aus technischen Gründen nicht dafür eignen.
+
+**Art. 2*d*** Elektronische Kommunikation auf Verlangen der Partei
+
+<sup>1</sup> Ist eine Person nicht zur elektronischen Kommunikation verpflichtet, so kann sie verlangen, dass die Kommunikation mit ihr über eine Plattform nach dem BEKJ elektronisch abgewickelt wird. In diesem Fall muss sie auf der Plattform eine Adresse angeben.
+
+<sup>2</sup> Sie kann verlangen, dass die Kommunikation mit ihr nicht mehr elektronisch abgewickelt wird, sofern sie ihren Wohnsitz oder Sitz bezeichnet. Liegt dieser im Ausland, muss sie ein Zustellungsdomizil in der Schweiz bezeichnen.
+
+**Art. 2*e*** Format
+
+Der Bundesrat regelt das Format der Dokumente.
+
+**Art. 2*f*** Nachreichung von Dokumenten auf Papier
+
+Die Zeugenschutzstelle kann verlangen, dass Dokumente auf Papier nachgereicht werden, wenn:
+- a. aufgrund technischer Probleme die Gefahr besteht, dass die Bearbeitung innert nützlicher Frist nicht möglich ist;
+- b. dies zur Überprüfung der Echtheit der Dokumente oder zur weiteren Verwendung nötig ist.
+
+**Art. 2*g*** Elektronische Akteneinsicht
+
+Personen, die mit der Zeugenschutzstelle elektronisch kommunizieren, wird die Akteneinsicht auf einer Plattform nach dem BEKJ gewährt.
+
+*Gliederungstitel vor Art. 37*
+
+### 9. Kapitel: Übergangsbestimmungen
+
+**Art. 37**
+
+<sup>1</sup> Auf im Zeitpunkt des Inkrafttretens der Artikel 2*b* und 2*c* hängige Verfahren bleiben die Verfahrensbestimmungen nach bisherigem Recht anwendbar.
+
+<sup>2</sup> Besteht im Zeitpunkt des Inkrafttretens des BEKJ bereits ein System einer Behörde für die elektronische Kommunikation mit anderen Behörden, das die sichere elektronische Übermittlung zulässt, so kann dieses System während fünf Jahren weiter benutzt werden.
+
+<sup>3</sup> Für Verfahren vor einer bestimmten kantonalen Behörde gelten die Artikel 2*b* und 2*c* ab dem Zeitpunkt, der von diesem Kanton nach Artikel 37 Absatz 3 BEKJ angekündigt wurde. Für Verfahren vor Behörden des Bundes gelten diese Artikel ab dem vom Bundesrat nach Artikel 37 Absatz 4 BEKJ festgelegten Zeitpunkt.
+
+## 14. Opferhilfegesetz vom 23. März 2007
+
+*Gliederungstitel nach Art. 8a*
+
+### 1*a*. Kapitel: Elektronische Kommunikation und Aktenführung
+
+**Art. 8*b*** Anwendbare Bestimmungen
+
+Die Bestimmungen des Bundesgesetzes vom 20. Dezember 2024 über die Plattformen für die elektronische Kommunikation in der Justiz (BEKJ) sind auf die Verfahren nach dem vorliegenden Gesetz anwendbar, soweit dieses nichts anderes vorsieht.
+
+**Art. 8*c*** Führung und Weitergabe der Akten
+
+<sup>1</sup> Die Beratungsstelle führt alle Akten elektronisch und gibt sie über eine Plattform nach dem BEKJ weiter. Ausgenommen sind Akten, die sich aus technischen Gründen nicht dafür eignen.
+
+<sup>2</sup> Für die Weitergabe innerhalb eines Kantons können auch andere technisch geeignete Lösungen eingesetzt werden. Diese müssen in geeigneter Weise erlauben:
+- a. die Zeitpunkte der Übermittlung eindeutig festzustellen; und
+- b. die Akte vor Veränderung und unberechtigter Kenntnisnahme zu schützen.
+
+<sup>3</sup> Der Bundesrat bestimmt die Anforderungen nach Absatz 2.
+
+**Art. 8*d*** Pflicht zur elektronischen Übermittlung
+
+<sup>1</sup> Behörden sowie Anwältinnen und Anwälte, die nach dem Anwaltsgesetz vom 23. Juni 2000 oder nach einem Staatsvertrag berechtigt sind, Parteien vor schweizerischen Gerichtsbehörden zu vertreten, müssen den Austausch von Dokumenten mit der Beratungsstelle über eine Plattform nach dem BEKJ abwickeln.
+
+<sup>2</sup> Der Bundesrat kann für Behörden Ausnahmen vorsehen.
+
+<sup>3</sup> Reichen die nach Absatz 1 Verpflichteten Eingaben auf Papier ein, so setzt die Beratungsstelle eine angemessene Frist für die elektronische Einreichung mit der Androhung, dass die Eingabe andernfalls als nicht erfolgt gilt.
+
+<sup>4</sup> Ausgenommen sind Dokumente, die sich aus technischen Gründen nicht dafür eignen.
+
+**Art. 8*e*** Elektronische Kommunikation auf Verlangen der Partei
+
+<sup>1</sup> Ist eine Person nicht zur elektronischen Kommunikation verpflichtet, so kann sie verlangen, dass die Kommunikation mit ihr über eine Plattform nach dem BEKJ elektronisch abgewickelt wird. In diesem Fall muss sie auf der Plattform eine Adresse angeben.
+
+<sup>2</sup> Sie kann verlangen, dass die Kommunikation mit ihr nicht mehr elektronisch abgewickelt wird, sofern sie ihren Wohnsitz oder Sitz bezeichnet. Liegt dieser im Ausland, muss sie ein Zustellungsdomizil in der Schweiz bezeichnen.
+
+**Art. 8*f*** Format
+
+Der Bundesrat regelt das Format der Dokumente.
+
+**Art. 8*g*** Nachreichung von Dokumenten auf Papier
+
+Die Beratungsstelle kann verlangen, dass Dokumente auf Papier nachgereicht werden, wenn:
+- a. aufgrund technischer Probleme die Gefahr besteht, dass die Bearbeitung innert nützlicher Frist nicht möglich ist;
+- b. dies zur Überprüfung der Echtheit der Dokumente oder zur weiteren Verwendung nötig ist.
+
+**Art. 8*h*** Elektronische Akteneinsicht
+
+Personen, die mit der Beratungsstelle elektronisch kommunizieren, wird die Akteneinsicht auf einer Plattform nach dem BEKJ gewährt.
+
+**Art. 10 Abs. 1<sup>bis</sup>**
+
+<sup>1bis</sup> Die Gesuchseinreichung und die Akteneinsicht erfolgen über eine Plattform nach dem BEKJ.
+
+**Art. 48*a*** Übergangsbestimmungen zur Änderung vom 20. Dezember 2024
+
+<sup>1</sup> Auf im Zeitpunkt des Inkrafttretens der Artikel 8*c* und 8*d* hängige Verfahren bleiben die Verfahrensbestimmungen nach bisherigem Recht anwendbar.
+
+<sup>2</sup> Für Verfahren vor einer bestimmten kantonalen Behörde gelten die Artikel 8*c* und 8*d* ab dem Zeitpunkt, der von diesem Kanton nach Artikel 37 Absatz 3 BEKJ angekündigt wurde. Für Verfahren vor Behörden des Bundes gelten diese Artikel ab dem vom Bundesrat nach Artikel 37 Absatz 4 BEKJ festgelegten Zeitpunkt.
+
+## 15. Bundesgesetz vom 22. März 1974 über das Verwaltungsstrafrecht
+
+**Art. 31*b*** V. Elektronische Kommunikation und Aktenführung   1. Anwendbare Bestimmungen
+
+Die Bestimmungen des Bundesgesetzes vom 20. Dezember 2024 über die Plattformen für die elektronische Kommunikation in der Justiz (BEKJ) sind auf die Verfahren nach dem vorliegenden Gesetz anwendbar, soweit dieses nichts anderes vorsieht.
+
+**Art. 31*c*** 2. Führung und Weitergabe der Akten
+
+Die Verwaltungsbehörde führt alle Akten elektronisch und gibt sie über eine Plattform nach dem BEKJ weiter. Ausgenommen sind Akten, die sich aus technischen Gründen nicht dafür eignen.
+
+**Art. 31*d*** 3. Pflicht zur elektronischen Übermittlung
+
+<sup>1</sup> Behörden sowie Verteidiger müssen den Austausch von Dokumenten mit der Verwaltungsbehörde über eine Plattform nach dem BEKJ abwickeln.
+
+<sup>2</sup> Reichen sie Eingaben auf Papier ein, so setzt die Verwaltungsbehörde ihnen eine angemessene Frist für die elektronische Einreichung mit der Androhung, dass die Eingabe andernfalls als nicht erfolgt gilt.
+
+<sup>3</sup> Ausgenommen sind Dokumente, die sich aus technischen Gründen nicht dafür eignen.
+
+**Art. 31*e*** 4. Elektronische Kommunikation auf Verlangen der Partei
+
+<sup>1</sup> Ist eine Person nicht zur elektronischen Kommunikation verpflichtet, so kann sie verlangen, dass die Kommunikation mit ihr über eine Plattform nach dem BEKJ elektronisch abgewickelt wird. In diesem Fall muss sie auf der Plattform eine Adresse angeben.
+
+<sup>2</sup> Sie kann verlangen, dass die Kommunikation mit ihr nicht mehr elektronisch abgewickelt wird, sofern sie ihren Wohnsitz oder Sitz bezeichnet. Liegt dieser im Ausland, muss sie ein Zustellungsdomizil in der Schweiz bezeichnen.
+
+**Art. 31*f*** 5. Format
+
+Der Bundesrat regelt das Format der Dokumente.
+
+**Art. 31*g*** 6. Nachreichung von Dokumenten auf Papier
+
+Die Verwaltungsbehörde kann verlangen, dass Dokumente auf Papier nachgereicht werden, wenn:
+- a. aufgrund technischer Probleme die Gefahr besteht, dass die Bearbeitung innert nützlicher Frist nicht möglich ist;
+- b. dies zur Überprüfung der Echtheit der Dokumente oder zur weiteren Verwendung nötig ist.
+
+**Art. 31*h*** 7. Elektronische Akteneinsicht
+
+Personen, die mit der Verwaltungsbehörde elektronisch kommunizieren, wird die Akteneinsicht auf einer Plattform nach dem BEKJ gewährt.
+
+**Art. 34 Abs. 1 und 2** 
+
+<sup>1</sup> Mitteilungen sind den Adressaten an ihre auf einer Plattform nach dem BEKJ angegebene Adresse, an ihren Wohnsitz, ihren gewöhnlichen Aufenthaltsort oder an ihren Sitz zuzustellen.
+
+<sup>2</sup> Beschuldigte mit Wohnsitz, gewöhnlichem Aufenthaltsort oder Sitz im Ausland haben eine Adresse auf einer Plattform nach dem BEKJ anzugeben oder ein Zustellungsdomizil in der Schweiz zu bezeichnen. Vorbehalten bleiben staatsvertragliche Vereinbarungen, die vorsehen, dass Mitteilungen direkt zugestellt werden können.
+
+**Art. 38 Abs. 5**
+
+<sup>5</sup> Werden Einvernahmen und andere Untersuchungshandlungen mit technischen Hilfsmitteln aufgezeichnet, so kann auf die Unterschriften verzichtet werden. Die Aufzeichnungen werden zu den Akten genommen.
+
+**Art. 47 Abs. 1**
+
+<sup>1</sup> Der Inhaber eines beschlagnahmten Gegenstandes oder Vermögenswertes ist verpflichtet, ihn dem untersuchenden Beamten gegen Empfangsbestätigung oder ein Doppel des Beschlagnahmeprotokolls herauszugeben.
+
+**Art. 54 Abs. 1 und 2**
+
+<sup>1</sup> Dem Beschuldigten ist bei der Verhaftung ein Doppel des Haftbefehls auszuhändigen. Auf Verlangen ist ihm der Haftbefehl zusätzlich an seine auf einer Plattform nach dem BEKJ angegebene Adresse zuzustellen.
+
+<sup>2</sup> Der Verhaftete ist der zuständigen kantonalen Behörde zu übergeben; der Haftbefehl ist dieser vorgängig über eine Plattform nach dem BEKJ zu übermitteln.
+
+**Art. 64 Abs. 3**
+
+<sup>3</sup> Der Strafbescheid ist dem Beschuldigten über eine Plattform nach dem BEKJ oder durch eingeschriebenen Brief zu eröffnen oder gegen Empfangsbestätigung auszuhändigen; er kann durch Publikation im Bundesblatt eröffnet werden, wenn der Aufenthalt des Beschuldigten nicht bekannt ist und dieser weder auf einer Plattform eine Adresse noch in der Schweiz einen Vertreter oder ein Zustellungsdomizil hat. Artikel 34 Absatz 2 ist anwendbar.
+
+**Art. 65 Abs. 3**
+
+<sup>3</sup> Auf die Unterschrift kann verzichtet werden, wenn die Zustimmung mit technischen Hilfsmitteln aufgezeichnet wird. Die Aufzeichnungen werden zu den Akten genommen.
+
+**Art. 68 Abs. 4**
+
+<sup>4</sup> Die Verwaltung verbindet diese Nachfrist mit der Androhung, nach unbenutztem Fristablauf aufgrund der Akten zu entscheiden oder, wenn das Begehren, die Begründung oder, bei Einsprachen auf Papier, die Unterschrift fehlt, auf die Einsprache nicht einzutreten.
+
+**Art. 88 Abs. 3**
+
+<sup>3</sup> Der Entscheid ist zu begründen und den am Revisionsverfahren Beteiligten über eine Plattform nach dem BEKJ oder durch eingeschriebenen Brief zu eröffnen.
+
+**Art. 106*a*** Übergangs­bestimmungen zur Änderung vom 20. Dezember 2024
+
+<sup>1</sup> Auf im Zeitpunkt des Inkrafttretens der Artikel 31*c* und 31*d* hängige Verfahren bleiben die Verfahrensbestimmungen nach bisherigem Recht anwendbar.<
+
+<sup>2</sup> Besteht im Zeitpunkt des Inkrafttretens des BEKJ ein System einer Behörde für die elektronische Kommunikation mit anderen Behörden, das die sichere elektronische Übermittlung zulässt, so kann dieses System während fünf Jahren weiter benutzt werden.
+
+<sup>3</sup> Die Artikel 31*c* und 31*d* gelten ab dem vom Bundesrat nach Artikel 37 Absatz 4 BEKJ festgelegten Zeitpunkt.
+
+## 16. Militärstrafprozess vom 23. März 1979
+
+*Gliederungstitel nach Art. 37*
+
+### 2*a*. Abschnitt: Elektronische Kommunikation
+
+**Art. 37*a*** Anwendbare Bestimmungen
+
+Die Bestimmungen des Bundesgesetzes vom 20. Dezember 2024 über die Plattformen für die elektronische Kommunikation in der Justiz (BEKJ) sind auf die Verfahren nach dem vorliegenden Gesetz anwendbar, soweit dieses nichts anderes vorsieht.
+
+**Art. 37*b*** Pflicht zur elektronischen Übermittlung
+
+<sup>1</sup> Behörden sowie Anwälte, die nach dem Anwaltsgesetz vom 23. Juni 2000 oder nach einem Staatsvertrag berechtigt sind, Parteien vor schweizerischen Gerichts­behörden zu vertreten, müssen den Austausch von Dokumenten mit der Strafbehörde über eine Plattform nach dem BEKJ abwickeln.
+
+<sup>2</sup> Reichen sie Eingaben auf Papier ein, so setzt die Strafbehörde eine angemessene Frist für die elektronische Einreichung mit der Androhung, dass die Eingabe andernfalls als nicht erfolgt gilt.
+
+<sup>3</sup> Ausgenommen sind Dokumente, die sich aus technischen Gründen nicht dafür eignen.
+
+**Art. 37*c*** Elektronische Kommunikation auf Verlangen der Partei
+
+<sup>1</sup> Ist eine Person nicht zur elektronischen Kommunikation verpflichtet, so kann sie verlangen, dass die Kommunikation mit ihr über eine Plattform nach dem BEKJ abgewickelt wird. In diesem Fall muss sie auf der Plattform eine Adresse angeben.
+
+<sup>2</sup> Sie kann verlangen, dass die Kommunikation mit ihr nicht mehr elektronisch abgewickelt wird, sofern sie ihren Wohnsitz oder Sitz bezeichnet. Liegt dieser im Ausland, muss sie ein Zustellungsdomizil in der Schweiz bezeichnen.
+
+**Art. 37*d*** Format
+
+Der Bundesrat regelt das Format der Dokumente.
+
+**Art. 37*e*** Nachreichung von Dokumenten auf Papier
+
+Die Strafbehörde kann verlangen, dass Dokumente auf Papier nachgereicht werden, wenn:
+- a. aufgrund technischer Probleme die Gefahr besteht, dass die Bearbeitung innert nützlicher Frist nicht möglich ist;
+- b. dies zur Überprüfung der Echtheit der Dokumente oder zur weiteren Verwendung nötig ist.
+
+**Art. 37*f*** Elektronische Akteneinsicht
+
+Personen, die mit der Strafbehörde elektronisch kommunizieren, wird die Akteneinsicht auf einer Plattform nach dem BEKJ gewährt.
+
+**Art. 38 Abs. 1<sup>bis</sup> und 2<sup>bis</sup>**
+
+<sup>1bis</sup> Die Einvernahme kann zusätzlich mit technischen Hilfsmitteln aufgezeichnet werden. Die Aufzeichnungen werden zu den Akten genommen.
+
+<sup>2bis</sup> Wird die Einvernahme aufgezeichnet, so kann auf die Unterschriften verzichtet werden.
+
+**Art. 38*a*** Form der Bestätigung von Protokollen
+
+<sup>1</sup> Die Richtigkeit der Protokolle kann durch eigenhändige Unterschrift auf Papier oder auf einem elektronischen Gerät bestätigt werden.
+
+<sup>2</sup> Der Bundesrat bestimmt:
+- a. die Anforderungen an die elektronische Bestätigung;
+- b. wie die Unveränderbarkeit eines elektronisch bestätigten Protokolls sicherzustellen ist.
+
+**Art. 39 Abs. 1<sup>bis</sup> und 3**
+
+<sup>1bis</sup> Die Hauptverhandlung kann zusätzlich mit technischen Hilfsmitteln aufgezeichnet werden. Die Aufzeichnungen werden zu den Akten genommen.
+
+<sup>3</sup> Das Protokoll der Hauptverhandlung wird vom Präsidenten und vom Gerichtsschreiber unterzeichnet. Wird die Hauptverhandlung aufgezeichnet, so kann auf die Unterschriften verzichtet werden. Im Übrigen gilt Artikel 38.
+
+**Art. 40 Abs. 3**
+
+<sup>3</sup> Wird die Durchführung der Massnahme mit technischen Hilfsmitteln aufgezeichnet, so kann auf die Unterschrift verzichtet werden. Die Aufzeichnungen werden zu den Akten genommen.
+
+**Art. 41 Abs. 3**
+
+<sup>3</sup> Wird die Durchführung der Massnahme mit technischen Hilfsmitteln aufgezeichnet und bestätigt der bisherige Inhaber der Gegenstände oder der nach Absatz 2 Beigezogene die Vollständigkeit des Verzeichnisses, so kann auf die Unterschrift verzichtet werden. Die Aufzeichnungen werden zu den Akten genommen.
+
+**Art. 43 Sachüberschrift und Abs. 4** Führung und Weitergabe der Akten
+
+<sup>4</sup> Das Oberauditorat und die Strafbehörden geben die Akten über eine Plattform nach dem BEKJ weiter. Ausgenommen sind Akten, die sich aus technischen Gründen nicht dafür eignen.
+
+**Art. 46 Abs. 1</sup>bis</sup> und 2**
+
+<sup>1bis</sup> Erfolgt der erstmalige Abruf einer Mitteilung an einem Samstag, einem Sonntag oder einem am Wohnsitz oder Sitz der Partei oder ihres Vertreters vom Bundesrecht oder vom kantonalen Recht anerkannten Feiertag und innerhalb von sieben Tagen seit der Zustellung, so gilt die Mitteilung am nächsten Werktag als erfolgt.
+
+<sup>2</sup> Schriftliche Eingaben müssen spätestens am letzten Tag der Frist über eine Plattform nach dem BEKJ eingereicht worden sein, an die zuständige Stelle gelangt sein oder der Schweizerischen Post übergeben worden sein. In Haftfällen genügt die fristgerechte Übergabe an den Gefängniswärter, der für die Weiterleitung besorgt ist.
+
+**Art. 51 Abs. 2**
+
+<sup>2</sup> Die Vorladung wird über eine Plattform nach dem BEKJ, durch die Schweizerische Post, durch einen Angehörigen der Armee oder nötigenfalls durch Vermittlung einer zivilen Behörde zugestellt.
+
+**Art. 78 zweiter Satz**
+
+… Die Vorladung wird über eine Plattform nach dem BEKJ, durch die Schweizerische Post, durch einen Angehörigen der Armee oder durch Vermittlung ziviler Behörden zugestellt. …
+
+**Art. 153 Abs. 3**
+
+<sup>3</sup> Der Präsident des Militärgerichts und der Gerichtsschreiber unterzeichnen das Urteil, falls der Versand auf Papier erfolgt.
+
+**Art. 220*b*** Übergangsbestimmungen zur Änderung vom 20. Dezember 2024
+
+<sup>1</sup> Auf im Zeitpunkt des Inkrafttretens der Artikel 37*b* und 37*c* hängige Verfahren bleiben die Verfahrensbestimmungen nach bisherigem Recht anwendbar.
+
+<sup>2</sup> Besteht im Zeitpunkt des Inkrafttretens des BEKJ bereits ein System einer Behörde für die elektronische Kommunikation mit anderen Behörden, das die sichere elektronische Übermittlung zulässt, so kann dieses System während fünf Jahren weiter benutzt werden.
+
+<sup>3</sup> Die Artikel 37*b* und 37*c* gelten ab dem vom Bundesrat nach Artikel 37 Absatz 4 BEKJ festgelegten Zeitpunkt.
+
+## 17. Rechtshilfegesetz vom 20. März 1981
+
+**Art. 12 Abs. 1**
+
+<sup>1</sup> Wenn dieses Gesetz nichts anderes bestimmt, wenden die Bundesverwaltungsbehörden das Verwaltungsverfahrensgesetz vom 20. Dezember 1968 an; die kantonalen Behörden wenden die für sie geltenden Vorschriften sinngemäss an. Für Prozesshandlungen gilt das in Strafsachen massgebende Verfahrensrecht. Nicht anwendbar sind Bestimmungen, die:
+- a. die Behörden zur elektronischen Übermittlung von Verfahrensdokumenten, zur elektronischen Aktenführung oder zur elektronischen Aktenweitergabe verpflichten; oder
+- b. die Verfahrensbeteiligten zur elektronischen Übermittlung oder Entgegennahme von Verfahrensdokumenten verpflichten.
+
+## 18. Bundesgesetz vom 18. März 2016
+
+*Gliederungstitel nach Art. 16*
+
+### 6a. Abschnitt: Validator
+
+**Art. 16*a***
+
+<sup>1</sup> Die Bundeskanzlei stellt der Öffentlichkeit und den Behörden ein Mittel zur Verfügung, mit dem überprüft werden kann, ob die elektronischen Signaturen und Zeitstempel gültig sind (Validator).
+
+<sup>2</sup> Der Inhalt des zu prüfenden Dokuments muss dem Validator nicht in einer für diesen lesbaren Form übermittelt werden.
+
+<sup>3</sup> Der Validator bewahrt die zur Prüfung übermittelten Daten nicht auf.
+
+<sup>4</sup> Für die Nutzung des Validators werden keine Gebühren erhoben.
+
+<sup>5</sup> Der Bundesrat kann die technischen Normen zur Validierung von elektronischen Dokumenten, elektronischen Signaturen und Zeitstempeln festlegen.
+
+## 19. Geldwäschereigesetz vom 10. Oktober 1997
+
+**Art. 23 Abs. 7**
+
+<sup>7</sup> Der Verkehr mit der Meldestelle erfolgt über das Datenbearbeitungssystem nach Absatz 3.
